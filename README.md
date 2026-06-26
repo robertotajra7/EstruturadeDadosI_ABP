@@ -26,26 +26,32 @@ Características:
 
 ## Estrutura do Projeto
 
+
 Trabalho-III/
+
 ├── Arvore/
+
 │   ├── abp.h
+
 │   ├── abp.c
+
 │   └── main.c
-├── .gitignore
-└── README.md
+
+│
+
+├── README.md
+
+└── .gitignore
 
 ---
 
-## Compilação
 
-### Árvore
+## Compilação
 
 gcc main.c abp.c -o programa_abp
 
 ---
 
 ## Execução
-
-### Árvore
 
 ./programa_abp
